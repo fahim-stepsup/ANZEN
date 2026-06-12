@@ -28,13 +28,21 @@ Anzen is a real-time security engine for Android that intercepts zero-day phishi
 ---
 ---
 
-# Screenshots
+<h2>Screenshots</h2>
 
-| Real-Time Dashboard | Deep Scanner | Threat Interception |
-|---------------------|-------------|---------------------|
-| ![](screenshot/dashboard.jpg) | ![](screenshot/deep-scanner.jpg) | ![](screenshot/threat.jpg) |
+<table>
+<tr>
+<th>Real-Time Dashboard</th>
+<th>Deep Scanner</th>
+<th>Threat Interception</th>
+</tr>
 
----
+<tr>
+<td><img src="screenshot/dashboard.jpg" height="550"></td>
+<td><img src="screenshot/deep-scanner.jpg" height="550"></td>
+<td><img src="screenshot/threat.jpg" height="550"></td>
+</tr>
+</table>
 
 # Why Anzen?
 
