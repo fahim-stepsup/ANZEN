@@ -3,21 +3,18 @@ Real-time Android phishing defense platform featuring URL interception, entropy-
 
 <div align="center">
 
-<img src="screenshot/logo.jpeg" width="120">
+<img src="screenshot/logo.jpeg" width="120" alt="Anzen Logo">
 
 # Anzen
 
 ### Enterprise-Grade Phishing Defense & Intent Firewall for Android
 
 [![Website](https://img.shields.io/badge/Website-anzen.pages.dev-blue)](https://anzen.pages.dev)
-
 [![Download](https://img.shields.io/badge/Download-Latest_APK-brightgreen)](https://github.com/fahim-stepsup/ANZEN/releases/latest)
-
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.9+-7F52FF)
-
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-UI-blue)
-
 ![License](https://img.shields.io/badge/License-MIT-orange)
+
 *Zero-knowledge. Real-time. Fully on-device.*
 
 Anzen is a real-time security engine for Android that intercepts zero-day phishing links, calculates domain entropy, strips invisible trackers, and blocks malicious sites in milliseconds — all running 100% locally on your device.
@@ -25,6 +22,8 @@ Anzen is a real-time security engine for Android that intercepts zero-day phishi
 [Download APK](https://github.com/fahim-stepsup/ANZEN/releases/latest) • [Official Website](https://anzen.pages.dev) • [Report a Bug](https://github.com/fahim-stepsup/ANZEN/issues)
 
 </div>
+
+---
 
 ---
 ---
